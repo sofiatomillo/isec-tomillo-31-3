@@ -10,21 +10,3 @@ h1{
 p{
     font-family: sans-serif;
 }
-
-div{
-    margin: 2%;
-    width: 50%;
-    height: 200px;
-}
-
-#Padre{
-    background-color: #f5760e;
-}
-
-#Hijo{
-    background-color: #e4b359;
-}
-
-.caja{
-    background-color: #175ec7;
-}
